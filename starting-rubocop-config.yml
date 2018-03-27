@@ -259,7 +259,7 @@ Lint/Void:
 # Style
 
 Style/AccessorMethodName:
-  Enabled: false 
+  Enabled: false
 
 Style/AsciiIdentifiers:
   Enabled: true
@@ -373,9 +373,6 @@ Style/StringLiteralsInInterpolation:
   Enabled: true
 
 Style/TrailingCommaInArguments:
-  Enabled: true
-
-Style/TrailingCommaInLiteral:
   Enabled: true
 
 Style/UnlessElse:
